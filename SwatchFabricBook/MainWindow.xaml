@@ -10,7 +10,7 @@
         ResizeMode="NoResize"
         WindowStyle="None"
         Background="#343434"
-        Title="MainWindow" Height="430" Width="800">
+        Title="MainWindow" Height="440" Width="800">
     <Window.Resources>
         <Style x:Key="FocusVisual">
             <Setter Property="Control.Template">
